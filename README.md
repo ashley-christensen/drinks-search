@@ -1,11 +1,2 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+//Drinks search with external Web Service, useParams, useCallback, useContext/useGlobalContext custom hook, React Router 6, etc
+//external API -- "The Cocktail DB"
